@@ -4,7 +4,7 @@ import random
 # A simple simulation of the infamous Monty Hall Door Problem. The original problem was as follows: A contestant on a game show is 
 # attempting to win a prize car, which is hidden behind one of three doors alongside two goats. The contestant first picks a door, then,
 # without opening the chosen door, the host opens one of the two remaining doors to reveal a goat. The problem is then whether or not 
-# the contestant is better off switching to the remaining unopened door or sticking by his original #choice. Most people reason that
+# the contestant is better off switching to the remaining unopened door or sticking by his original choice. Most people reason that
 # because one car and one one goat remain between the two doors, there is no advantage to be gained by switching doors, and the 
 # contestant could either switch  or stay with equal opportunity for success. The counterintuitive solution, however, is that the 
 # contestant is always better off switching. While this can be shown formally, the  purpose of this program is to demonstrate the 
