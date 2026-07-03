@@ -52,7 +52,7 @@ def alwaysChangeStrat(doors, contestant, host):
 def runSim(n):
     indifferentSuccesses = 0
     alwaysChangeSuccesses = 0
-    for i in range(n-1):
+    for i in range(n):
         doors = generateDoors()
         contestantChoice = random.choice([1,2,3])
         hostChoice = openDoor(doors, contestantChoice)
